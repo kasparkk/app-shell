@@ -1,0 +1,10 @@
+.gradle/
+build/
+app/build/
+local.properties
+*.apk
+# von tools/prepare.py erzeugt
+app/generated.properties
+app/src/main/assets/config.json
+app/src/main/res/values/generated.xml
+app/src/main/res/mipmap-*dpi/
